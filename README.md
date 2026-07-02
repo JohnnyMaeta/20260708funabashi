@@ -10,7 +10,7 @@
 | 時間 | 内容 | 備考 |
 | :---- | :---------------------- | :------------------------------------------------------------------------------------------------------- |
 | 14:30～14:35 | **開会・趣旨説明** | |
-| 14:35～16:20 | **講義・実践研修** | **[前半] 指導案・評価の爆速作成**<br>・NotebookLM × Gemini 連携<br>・指導要領PDFの読み込みと授業プラン生成<br>・評価基準（ルーブリック）作成・Googleフォーム変換<br><br>**[後半] 子供の伴走AI（Gem）作成**<br>・前半の指導案をAI指示文に活用<br>・「言葉」で導くコーチング設計<br>・画像生成AI（nanobanana）で構図・配色・雰囲気を可視化<br>・A表現(1)イ（デザイン）を題材とした体験<br>・Canva・Google Classroomとの連携（提出データの保存・ポートフォリオ化） |
+| 14:35～16:20 | **講義・実践研修** | **[前半] 指導案・評価の爆速作成**<br>・Canvaの付箋をAIで集約<br>・NotebookLM × Gemini 連携<br>・指導要領PDFの読み込みと授業プラン生成<br>・評価基準（ルーブリック）作成<br><br>**[後半] 子供の伴走AI（Gem）作成**<br>・前半の指導案をAI指示文に活用<br>・「言葉」で導くコーチング設計<br>・画像生成AI（nanobanana）で構図・配色・雰囲気を可視化<br>・A表現(1)イ（デザイン）を題材とした体験<br>・評価基準のGoogleフォーム変換<br>・Google Workspace Studioでフォームを自動分析 |
 | 16:20～16:30 | **質疑応答** | |
 | 16:30～16:35 | **顧問校長より講評** | |
 | 16:35～16:40 | **アンケート記入・クロージング** | |
@@ -25,6 +25,7 @@
 - <a href="https://notebooklm.google.com/" target="_blank">NotebookLM</a>
 - <a href="https://johnnymaeta.github.io/kirokukunneo/" target="_blank">スーパー記録くん</a>
 - <a href="https://www.canva.com/" target="_blank">Canva</a>
+- <a href="https://studio.workspace.google.com/" target="_blank">Google Workspace Studio</a>
 
 ### 2. 資料・リソース（順次追加）
 -  <a href="https://suno.com/s/ESl12BJ1GJPM0FYV" target="_blank">テーマソング</a>
