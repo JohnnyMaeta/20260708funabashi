@@ -28,7 +28,6 @@
 - <a href="https://studio.workspace.google.com/" target="_blank">Google Workspace Studio</a>
 
 ### 2. 資料・リソース（順次追加）
--  <a href="https://suno.com/s/ESl12BJ1GJPM0FYV" target="_blank">テーマソング</a>
 -  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387016.htm" target="_blank">中学校学習指導要領</a>
 -  <a href="https://docs.google.com/document/d/1mCnWumizHGcCY5EIYgMHwa-EptVDhL3FtnKrNJGs9NM/edit?usp=sharing" target="_blank">プロンプト等</a>
 -  <a href="./戯画市の教育方針.md" target="_blank">戯画市の教育方針（演習用・架空の資料）</a>
