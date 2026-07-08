@@ -28,14 +28,22 @@
 - <a href="https://studio.workspace.google.com/" target="_blank">Google Workspace Studio</a>
 
 ### 2. 資料・リソース（順次追加）
+
+#### 📄 研修共通資料・リンク
 -  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387016.htm" target="_blank">中学校学習指導要領</a>
 -  <a href="https://docs.google.com/document/d/1mCnWumizHGcCY5EIYgMHwa-EptVDhL3FtnKrNJGs9NM/edit?usp=sharing" target="_blank">プロンプト等</a>
 -  <a href="https://docs.google.com/document/d/1sFIpCqCNwiKNvBD7Y-eCal00xjlm1BSw9MNagu4GAao/edit?tab=t.0" target="_blank">本日の要約ファイル</a>
+-  <a href="https://www.amazon.co.jp/stores/%E5%89%8D%E5%A4%9A-%E6%98%8C%E9%A1%95/author/B09RGNX3XZ?ref=sr_ntt_srch_lnk_1&qid=1783488335&sr=8-1&shoppingPortalEnabled=true" target="_blank">前多昌顕の著書一覧（Amazon著者ページ）</a>
+
+#### ✍️ 演習用テキスト資料
 -  <a href="./戯画市の教育方針.md" target="_blank">戯画市の教育方針（演習用・架空の資料）</a>
 -  <a href="./穴炉愚市の教育方針.md" target="_blank">穴炉愚市の教育方針（演習用・架空の資料）</a>
--  <a href="https://www.amazon.co.jp/stores/%E5%89%8D%E5%A4%9A-%E6%98%8C%E9%A1%95/author/B09RGNX3XZ?ref=sr_ntt_srch_lnk_1&qid=1783488335&sr=8-1&shoppingPortalEnabled=true" target="_blank">前多昌顕の著書一覧（Amazon著者ページ）</a>
+
+#### ⚙️ フォーム自動分析ワーク用ツール
 -  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWMt5JmoVZ1tljDevZ0vQSnoysP5BrqwA9lIFl8RCvjoWVNQ/viewform?usp=publish-editor" target="_blank">Google Workspace Studioでフォームを自動分析（演習用Googleフォーム）</a>
 -  <a href="https://docs.google.com/spreadsheets/d/12O-aFuOZSj6Z4rzdEXD_GaBLQpIhjIXD-ZAyldhi1b0/template/preview" target="_blank">Google Workspace Studioでフォームを自動分析（演習用スプレッドシート）</a>
+
+#### 📺 解説動画（YouTube）
 -  <a href="https://youtu.be/9XHhJMjaMog" target="_blank">【動画】指導案・評価の爆速作成（YouTube）<br><img src="https://img.youtube.com/vi/9XHhJMjaMog/mqdefault.jpg" alt="【動画】指導案・評価の爆速作成" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
 -  <a href="https://youtu.be/eNU-hdRT15k" target="_blank">【動画】評価基準のGoogleフォーム変換（YouTube）<br><img src="https://img.youtube.com/vi/eNU-hdRT15k/mqdefault.jpg" alt="【動画】評価基準のGoogleフォーム変換" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
 -  <a href="https://youtu.be/8sZS3oCD6t4" target="_blank">【動画】Google Workspace Studioでフォームを自動分析（YouTube）<br><img src="https://img.youtube.com/vi/8sZS3oCD6t4/mqdefault.jpg" alt="【動画】Google Workspace Studioでフォームを自動分析" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
