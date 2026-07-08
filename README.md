@@ -33,6 +33,7 @@
 -  <a href="./戯画市の教育方針.md" target="_blank">戯画市の教育方針（演習用・架空の資料）</a>
 -  <a href="./穴炉愚市の教育方針.md" target="_blank">穴炉愚市の教育方針（演習用・架空の資料）</a>
 -  <a href="https://docs.google.com/spreadsheets/d/12O-aFuOZSj6Z4rzdEXD_GaBLQpIhjIXD-ZAyldhi1b0/template/preview" target="_blank">Google Workspace Studioでフォームを自動分析（演習用スプレッドシート）</a>
+-  <a href="https://youtu.be/9XHhJMjaMog" target="_blank">【動画】指導案・評価の爆速作成（YouTube）<br><img src="https://img.youtube.com/vi/9XHhJMjaMog/mqdefault.jpg" alt="【動画】指導案・評価の爆速作成" width="320" style="margin-top: 5px; border-radius: 4px;"></a>
 
 ---
 
