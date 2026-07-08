@@ -30,6 +30,7 @@
 ### 2. 資料・リソース（順次追加）
 -  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387016.htm" target="_blank">中学校学習指導要領</a>
 -  <a href="https://docs.google.com/document/d/1mCnWumizHGcCY5EIYgMHwa-EptVDhL3FtnKrNJGs9NM/edit?usp=sharing" target="_blank">プロンプト等</a>
+-  <a href="https://docs.google.com/document/d/1sFIpCqCNwiKNvBD7Y-eCal00xjlm1BSw9MNagu4GAao/edit?tab=t.0" target="_blank">本日の要約ファイル</a>
 -  <a href="./戯画市の教育方針.md" target="_blank">戯画市の教育方針（演習用・架空の資料）</a>
 -  <a href="./穴炉愚市の教育方針.md" target="_blank">穴炉愚市の教育方針（演習用・架空の資料）</a>
 -  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWMt5JmoVZ1tljDevZ0vQSnoysP5BrqwA9lIFl8RCvjoWVNQ/viewform?usp=publish-editor" target="_blank">Google Workspace Studioでフォームを自動分析（演習用Googleフォーム）</a>
