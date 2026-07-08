@@ -24,7 +24,7 @@
 - <a href="https://gemini.google.com/" target="_blank">Gemini (Google AI)</a>
 - <a href="https://notebooklm.google.com/" target="_blank">NotebookLM</a>
 - <a href="https://johnnymaeta.github.io/kirokukunneo/" target="_blank">スーパー記録くん</a>
-- <a href="https://www.canva.com/" target="_blank">Canva</a>
+- <a href="https://www.canva.com/design/DAHD5NefcxU/ThspDaTstLGkh0af9-q31Q/edit" target="_blank">Canva</a>
 - <a href="https://studio.workspace.google.com/" target="_blank">Google Workspace Studio</a>
 
 ### 2. 資料・リソース（順次追加）
